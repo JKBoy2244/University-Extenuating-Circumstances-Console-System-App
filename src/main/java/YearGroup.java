@@ -1,4 +1,4 @@
-import Year;
+import interfaces.Year;
 import java.util.Scanner;
 import java.util.*;
 import java.io.BufferedReader;
