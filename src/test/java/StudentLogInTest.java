@@ -3,7 +3,7 @@ import java.io.ByteArrayOutputStream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class StudentLoginTest {
+public class StudentLogInTest {
 
   @BeforeEach
   void resetStudents() {
