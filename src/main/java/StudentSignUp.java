@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class StudentSignUp extends SignUpRole implements SignSUp {
+class StudentSignUp extends SignUpRole implements SignUp {
 
   static String studentName = "";
   static String studentID = "";
