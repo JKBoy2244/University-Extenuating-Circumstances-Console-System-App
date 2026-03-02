@@ -1,3 +1,4 @@
+import interfaces.SignSUp;
 import java.util.Scanner;
 import java.util.*;
 import java.io.BufferedReader;
@@ -8,7 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class StaffSignUp extends SignUpRole implements SignUp {
+class StaffSignUp extends SignUpRole implements SignSUp {
 
   static String staffName = "";
   static String staffID = "";
