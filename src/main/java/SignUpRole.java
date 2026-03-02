@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-class SignUpRole implements SignUp {
+class SignUpRole implements SignSUp {
 
   public void StudentOrStaff() {
 
