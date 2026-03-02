@@ -1,0 +1,19 @@
+Data Mining
+Computer Graphics
+Design for Human Interaction
+Web Programming
+Big Data Processing
+Embedded Systems
+Computability, Complexity and Algorithms
+Multi-platform Games Development
+Further Object Oriented Programming
+Semi-Structured Data Engineering
+Image Processing
+Product Development
+Digital Media and Social Networks
+Bayesian Decision and Risk Analysis
+Compilers
+Security Engineering
+Distributed Systems
+Neural Networks and Deep Learning
+User Experience Design 
