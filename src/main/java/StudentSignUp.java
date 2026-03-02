@@ -1,4 +1,4 @@
-import interfaces.SignSUp
+import interfaces.SignSUp;
 import java.util.Scanner;
 import java.util.*;
 import java.io.BufferedReader;
