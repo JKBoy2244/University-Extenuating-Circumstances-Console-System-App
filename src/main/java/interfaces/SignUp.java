@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-interface SignUp {
+public interface SignUp {
 
   public void StudentOrStaff();
 }
